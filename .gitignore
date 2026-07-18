@@ -1,0 +1,10 @@
+# Build artifacts
+.build-cache/
+*.class
+
+# Plugin JAR (built, not committed)
+jadx-plugin-method-role-tagger.jar
+
+# IDE
+.idea/
+*.iml
